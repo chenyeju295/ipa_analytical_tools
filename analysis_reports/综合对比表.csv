@@ -1,6 +1,0 @@
-应用名称,Bundle ID,版本,构建版本,IPA大小(MB),解压后大小(MB),压缩率,总文件数,总字符串数,URL数量,错误信息数,UI文本数,图片文件数,视频文件数,字体文件数,开发框架,主要第三方库
-Mimip,com.mimipwanzhnsh.ios,1.0,1,4.9,11.3,2.3,90,5637,13,150,32,2,0,0,原生iOS,"FBSDKCoreKit,CryptoSwift"
-Amare,com.amarepiaosuwxz.ios,1.0,1,6.8,14.5,2.1,98,9608,15,229,331,2,0,3,原生iOS,"FBSDKCoreKit,CryptoSwift"
-Agape,com.agapehayeteas.ios,1.0.0,5,15.6,37.8,2.4,215,6047,9,156,76,56,0,2,Flutter,"FBSDKCoreKit,Flutter,Alamofire,Kingfisher"
-Lurve,com.lurvehuadio.ios,1.0.0,1,17.3,40.1,2.3,273,21831,15,563,168,35,0,2,Flutter,"FBSDKCoreKit,Flutter"
-Zeally,com.zeallylkjhgf.ios,1.0,1,43.0,61.3,1.4,136,13297,25,451,663,2,7,0,原生iOS,"FBSDKCoreKit,Realm" 

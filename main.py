@@ -8,6 +8,10 @@ import argparse
 import sys
 import os
 from pathlib import Path
+
+# 添加src目录到Python路径
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(__file__)), 'src'))
+
 from ipa_parser import IPAParser
 from string_extractor import StringExtractor
 from resource_analyzer import ResourceAnalyzer

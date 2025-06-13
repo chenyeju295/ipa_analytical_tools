@@ -1,187 +1,92 @@
-# IPA Analytical Tools - 简化版
+# IPA 分析工具
 
-一个轻量级的Python工具，用于快速分析iOS应用包(.ipa)文件中的静态字符串、资源文件等内容，专注于核心分析功能。
+专业的iOS应用包(.ipa)分析工具，用于提取字符串、分析资源并生成详细报告。
 
-## 🎯 项目目标
-
-- **快速解析**: 解压和解析IPA文件，提取应用基本信息
-- **字符串分析**: 从二进制文件中提取和分类字符串
-- **资源统计**: 分析应用中的图片、音频、文档等资源文件
-- **重复检测**: 识别重复的字符串和文件
-
-## ✨ 主要功能
-
-### 🔍 核心分析功能
-- **IPA文件解析**: 自动解压IPA文件，提取应用基本信息
-- **字符串提取**: 从二进制文件中提取ASCII和UTF-8字符串
-- **智能分类**: 自动识别URL、错误信息、API端点、文件路径等
-- **资源统计**: 按类型统计图片、音频、文档等资源文件
-- **重复检测**: 查找重复字符串和同名文件
-
-### 📊 输出功能
-- **命令行摘要**: 直接在终端显示分析结果
-- **JSON报告**: 详细的结构化数据报告
-- **CSV导出**: 分类数据的表格格式导出
-
-## 🚀 快速开始
-
-### 环境要求
-- Python 3.6+
-- 无需安装额外依赖包（仅使用Python标准库）
-
-### 基本使用
-```bash
-# 分析单个IPA文件（基础分析+命令行输出）
-python main.py app.ipa
-
-# 指定输出目录并生成JSON报告
-python main.py app.ipa -o ./output --json
-
-# 生成CSV格式报告
-python main.py app.ipa --csv
-
-# 详细输出模式
-python main.py app.ipa -v
-
-# 自定义最小字符串长度
-python main.py app.ipa --min-string-length 6
-```
-
-### 演示和测试
-```bash
-# 运行演示脚本
-python test_demo.py example.ipa
-```
-
-## 📁 项目结构
+## 项目结构
 
 ```
 ipa_analytical_tools/
-├── main.py                  # 主程序入口
-├── ipa_parser.py           # IPA文件解析器  
-├── string_extractor.py     # 字符串提取器
-├── resource_analyzer.py    # 资源分析器
-├── reporter.py             # 报告生成器
-├── utils.py                # 工具函数
-├── test_demo.py            # 演示脚本
-├── simplified_requirements.md  # 简化需求文档
-└── README.md               # 项目说明
+├── src/                    # 核心模块
+│   ├── ipa_parser.py      # IPA文件解析器
+│   ├── string_extractor.py # 字符串提取器
+│   ├── resource_analyzer.py # 资源分析器
+│   ├── reporter.py        # 报告生成器
+│   └── utils.py           # 工具函数
+├── tools/                  # 工具脚本
+│   ├── main.py            # 主分析工具
+│   ├── quick_analysis.py  # 快速分析工具
+│   └── analyze_ipa_similarity.py # 相似性分析
+├── docs/                   # 文档目录
+│   ├── README.md          # 原始README
+│   └── 使用说明.md         # 详细使用说明
+├── data/                   # 数据目录
+│   ├── analysis_reports/   # 分析报告
+│   └── word_library.db     # 词库数据库
+└── ipas/                   # IPA文件存放目录
 ```
 
-## 🛠️ 技术特点
+## 快速开始
 
-- **零依赖**: 仅使用Python标准库，无需安装额外包
-- **轻量级**: 代码简洁，专注核心功能
-- **跨平台**: 支持Windows、macOS、Linux
-- **易扩展**: 模块化设计，便于功能扩展
+### 🆕 增强版 - 推荐使用
 
-## 📋 分析报告示例
+1. **分析单个IPA文件**
+   ```bash
+   python3 analyze.py single ipas/your_app.ipa
+   ```
 
-### 命令行输出示例
-```
-============================================================
-IPA 分析报告摘要
-============================================================
+2. **批量分析目录中的所有IPA文件**
+   ```bash
+   python3 analyze.py batch ipas/ --similarity
+   ```
 
-📱 应用信息:
-   应用名称: 示例应用
-   Bundle ID: com.example.app
-   版本: 1.0.0
-   构建版本: 123
-   平台: iPhoneOS
-   最低系统版本: 12.0
+3. **分析多个指定的IPA文件**
+   ```bash
+   python3 analyze.py multi app1.ipa app2.ipa app3.ipa --verbose
+   ```
 
-📦 大小信息:
-   IPA文件大小: 25.3 MB
-   应用包大小: 22.1 MB
+4. **仅执行相似性分析**（需要先有分析数据）
+   ```bash
+   python3 analyze.py similarity
+   ```
 
-🔤 字符串分析:
-   总字符串数: 5,247
-   唯一字符串数: 4,198
-   重复率: 20.0%
+### 传统版本（兼容）
 
-   字符串分类:
-     urls: 23 个
-     errors: 45 个
-     bundle_ids: 12 个
-     file_paths: 156 个
+1. **基础分析**
+   ```bash
+   python3 main.py ipas/your_app.ipa
+   ```
 
-📁 资源分析:
-   总文件数: 234
-   总资源大小: 18.5 MB
+2. **快速分析**（需要先有分析数据）
+   ```bash
+   python3 tools/quick_analysis.py
+   ```
 
-   资源分类:
-     images: 89 个文件 (12.3 MB)
-     audio: 5 个文件 (2.1 MB)
-     data: 23 个文件 (1.8 MB)
-```
+3. **相似性分析**
+   ```bash
+   python3 tools/analyze_ipa_similarity.py
+   ```
 
-## 📊 输出文件格式
+## 功能特性
 
-### JSON报告结构
-```json
-{
-  "report_info": {
-    "generated_at": "2024-01-01T12:00:00",
-    "tool_version": "1.0.0"
-  },
-  "app_info": {
-    "name": "示例应用",
-    "bundle_id": "com.example.app",
-    "version": "1.0.0"
-  },
-  "strings_analysis": {
-    "total_strings": 5247,
-    "unique_strings": 4198,
-    "categories": {...}
-  },
-  "resources_analysis": {
-    "total_files": 234,
-    "categories": {...}
-  }
-}
-```
+### 🔧 核心分析功能
+- ✅ 提取iOS应用中的字符串信息
+- ✅ 分析应用资源文件结构
+- ✅ 生成详细的JSON/CSV报告
+- ✅ 智能词库管理系统
+- ✅ 简化输出显示关键结果
 
-## 📈 性能指标
+### 🆕 增强功能
+- ✅ **批量分析**: 支持单个或多个IPA文件同时分析
+- ✅ **并行处理**: 多线程并行分析，提升处理速度
+- ✅ **深度相似性分析**: 字符串和资源的重复性检测
+- ✅ **智能重复检测**: 跨应用的字符串重复统计
+- ✅ **相似度矩阵**: 应用间相似度量化分析
+- ✅ **优化建议**: 基于分析结果的优化建议
+- ✅ **灵活输入**: 支持文件路径、目录、通配符等多种输入方式
 
-- **处理速度**: ~30MB/分钟
-- **内存使用**: <512MB（普通应用）
-- **准确率**: >90%（字符串提取）
-- **支持格式**: 标准IPA文件
+## 环境要求
 
-## 🚧 开发状态
+- Python 3.7+
+- 依赖库：见各模块导入
 
-✅ **已完成功能**:
-- IPA文件解压和解析
-- 应用基本信息提取
-- 字符串提取和分类
-- 资源文件统计
-- 重复内容检测
-- JSON/CSV报告生成
-- 命令行界面
-
-🔄 **后续扩展** (可选):
-- 多文件批量处理
-- 更精确的字符串分类算法
-- 图形界面版本
-- 数据库存储支持
-
-## 📚 相关文档
-
-- [简化需求文档](simplified_requirements.md) - 核心功能需求
-- [技术规格](technical_specs.md) - 详细技术实现
-- [演示脚本](test_demo.py) - 功能演示代码
-
-## 🎯 今日完成目标
-
-该简化版本专注于核心IPA分析功能，可在今天内完成开发和测试。主要特点：
-- 轻量级设计，无外部依赖
-- 命令行工具，易于使用
-- 模块化结构，便于维护
-- 基础但实用的分析功能
-
-## 📧 联系方式
-
-如有问题或建议，欢迎通过以下方式联系：
-- 项目Issues
-- 邮件联系 
+详细使用说明请参考 `docs/使用说明.md` 

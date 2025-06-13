@@ -1,0 +1,3197 @@
+{
+  "analysis_meta": {
+    "generated_at": "2025-06-13T16:56:03.372199",
+    "apps_analyzed": [
+      "Charr",
+      "Mimip",
+      "Zeally",
+      "Lurve",
+      "Agape",
+      "Amare"
+    ],
+    "apps_count": 6,
+    "filter_enabled": true
+  },
+  "string_analysis": {
+    "duplicate_analysis": {
+      "duplicates_by_count": {
+        "5": [
+          {
+            "content": "NSKErrorCode",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 5
+          },
+          {
+            "content": "defaultQueue",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 5
+          },
+          {
+            "content": "So7NSErrorC",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 5
+          },
+          {
+            "content": "_ErrorType",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 5
+          },
+          {
+            "content": "_nsError",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 5
+          },
+          {
+            "content": "SKError",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 5
+          }
+        ],
+        "3": [
+          {
+            "content": "Simulating data processing error. ",
+            "apps": [
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 3
+          },
+          {
+            "content": "defaultWebpagePreferences",
+            "apps": [
+              "Charr",
+              "Zeally",
+              "Agape"
+            ],
+            "count": 3
+          },
+          {
+            "content": "So17UIAlertControllerC",
+            "apps": [
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 3
+          },
+          {
+            "content": "Calculated checksum: ",
+            "apps": [
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 3
+          }
+        ],
+        "6": [
+          {
+            "content": "setLogLevel:",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Lurve",
+              "Agape",
+              "Amare"
+            ],
+            "count": 6
+          },
+          {
+            "content": "Fatal error",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Lurve",
+              "Agape",
+              "Amare"
+            ],
+            "count": 6
+          },
+          {
+            "content": "invalidate",
+            "apps": [
+              "Charr",
+              "Mimip",
+              "Zeally",
+              "Lurve",
+              "Agape",
+              "Amare"
+            ],
+            "count": 6
+          }
+        ],
+        "2": [
+          {
+            "content": "No cached data available for recovery. ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Global processing status changed from ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Attempting to recover from error... ",
+            "apps": [
+              "Zeally",
+              "Agape"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Simulating data processing error! ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Simulating data processing error ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "User preference changed from ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Data processed successfully. ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Performing initial setup... ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "invalidProductIdentifiers",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "dollarsign.circle.fill",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Cannot activate twice",
+            "apps": [
+              "Mimip",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Last processed time: ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Checksum generated: ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Processing time for ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "User ID changed to: ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "arrow.up.circle.fill",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "You need at least ",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Transaction failed",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "person.circle.fill",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Condition 1 met. ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "registerDefaults:",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Processing time: ",
+            "apps": [
+              "Zeally",
+              "Agape"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Condition 2 met. ",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "Processed data: ",
+            "apps": [
+              "Zeally",
+              "Agape"
+            ],
+            "count": 2
+          },
+          {
+            "content": "lastErrorMessage",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "userDefaultsKey",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "purchaseFailed",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "decodingError",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "requestFailed",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "logoImageView",
+            "apps": [
+              "Lurve",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "userDefaults",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "networkError",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "loginPkgName",
+            "apps": [
+              "Zeally",
+              "Agape"
+            ],
+            "count": 2
+          },
+          {
+            "content": "ADJLogLevel",
+            "apps": [
+              "Mimip",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "invalidURL",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "StoreError",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "?33333",
+            "apps": [
+              "Charr",
+              "Lurve"
+            ],
+            "count": 2
+          },
+          {
+            "content": "J ͮ l ",
+            "apps": [
+              "Mimip",
+              "Zeally"
+            ],
+            "count": 2
+          },
+          {
+            "content": "R i*8",
+            "apps": [
+              "Zeally",
+              "Agape"
+            ],
+            "count": 2
+          },
+          {
+            "content": "M@` k",
+            "apps": [
+              "Agape",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "ҀN m",
+            "apps": [
+              "Mimip",
+              "Amare"
+            ],
+            "count": 2
+          },
+          {
+            "content": "R ͭr",
+            "apps": [
+              "Zeally",
+              "Amare"
+            ],
+            "count": 2
+          }
+        ],
+        "4": [
+          {
+            "content": "So14NSUserDefaultsC",
+            "apps": [
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 4
+          },
+          {
+            "content": "logEvent:",
+            "apps": [
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 4
+          },
+          {
+            "content": "?666666",
+            "apps": [
+              "Mimip",
+              "Zeally",
+              "Agape",
+              "Amare"
+            ],
+            "count": 4
+          }
+        ]
+      },
+      "statistics": {
+        "total_strings": 2179,
+        "unique_strings": 2081,
+        "duplicate_strings": 98,
+        "duplication_rate": 4.497475906379074
+      },
+      "top_duplicates": [
+        {
+          "content": "setLogLevel:",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6
+        },
+        {
+          "content": "Fatal error",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6
+        },
+        {
+          "content": "invalidate",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6
+        },
+        {
+          "content": "NSKErrorCode",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5
+        },
+        {
+          "content": "defaultQueue",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5
+        },
+        {
+          "content": "So7NSErrorC",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5
+        },
+        {
+          "content": "_ErrorType",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5
+        },
+        {
+          "content": "_nsError",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5
+        },
+        {
+          "content": "SKError",
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5
+        },
+        {
+          "content": "So14NSUserDefaultsC",
+          "apps": [
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 4
+        },
+        {
+          "content": "logEvent:",
+          "apps": [
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 4
+        },
+        {
+          "content": "?666666",
+          "apps": [
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 4
+        },
+        {
+          "content": "Simulating data processing error. ",
+          "apps": [
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 3
+        },
+        {
+          "content": "defaultWebpagePreferences",
+          "apps": [
+            "Charr",
+            "Zeally",
+            "Agape"
+          ],
+          "count": 3
+        },
+        {
+          "content": "So17UIAlertControllerC",
+          "apps": [
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 3
+        },
+        {
+          "content": "Calculated checksum: ",
+          "apps": [
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 3
+        },
+        {
+          "content": "No cached data available for recovery. ",
+          "apps": [
+            "Zeally",
+            "Amare"
+          ],
+          "count": 2
+        },
+        {
+          "content": "Global processing status changed from ",
+          "apps": [
+            "Zeally",
+            "Amare"
+          ],
+          "count": 2
+        },
+        {
+          "content": "Attempting to recover from error... ",
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2
+        },
+        {
+          "content": "Simulating data processing error! ",
+          "apps": [
+            "Zeally",
+            "Amare"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    "similarity_matrix": {
+      "Charr": {
+        "Charr": 1.0,
+        "Mimip": 0.075,
+        "Zeally": 0.01278772378516624,
+        "Lurve": 0.005069708491761723,
+        "Agape": 0.06993006993006994,
+        "Amare": 0.02050113895216401
+      },
+      "Mimip": {
+        "Mimip": 1.0,
+        "Zeally": 0.024009603841536616,
+        "Lurve": 0.0035252643948296123,
+        "Agape": 0.0594059405940594,
+        "Amare": 0.030364372469635626
+      },
+      "Zeally": {
+        "Zeally": 1.0,
+        "Lurve": 0.0019815059445178335,
+        "Agape": 0.02453271028037383,
+        "Amare": 0.03350970017636684
+      },
+      "Lurve": {
+        "Lurve": 1.0,
+        "Agape": 0.0034285714285714284,
+        "Amare": 0.003421727972626176
+      },
+      "Agape": {
+        "Agape": 1.0,
+        "Amare": 0.030947775628626693
+      },
+      "Amare": {
+        "Amare": 1.0
+      }
+    },
+    "category_analysis": {
+      "Charr": {
+        "errors": 92,
+        "debug_info": 17,
+        "domains": 89,
+        "class_methods": 96,
+        "numbers": 3,
+        "bundle_ids": 7,
+        "version": 2,
+        "urls": 7,
+        "ui_texts": 13,
+        "file_paths": 1,
+        "uncategorized": 3220
+      },
+      "Mimip": {
+        "errors": 150,
+        "class_methods": 137,
+        "domains": 84,
+        "ui_texts": 32,
+        "numbers": 11,
+        "bundle_ids": 12,
+        "debug_info": 24,
+        "urls": 13,
+        "file_paths": 1,
+        "version": 3,
+        "uncategorized": 5170
+      },
+      "Zeally": {
+        "domains": 144,
+        "errors": 451,
+        "ui_texts": 663,
+        "class_methods": 584,
+        "numbers": 17,
+        "version": 6,
+        "debug_info": 59,
+        "urls": 25,
+        "bundle_ids": 21,
+        "file_paths": 1,
+        "uncategorized": 11326
+      },
+      "Lurve": {
+        "ui_texts": 168,
+        "domains": 130,
+        "debug_info": 527,
+        "errors": 563,
+        "numbers": 66,
+        "class_methods": 318,
+        "bundle_ids": 32,
+        "urls": 15,
+        "version": 8,
+        "file_paths": 2,
+        "uncategorized": 20002
+      },
+      "Agape": {
+        "domains": 91,
+        "class_methods": 222,
+        "ui_texts": 76,
+        "numbers": 7,
+        "errors": 156,
+        "urls": 9,
+        "bundle_ids": 9,
+        "debug_info": 23,
+        "file_paths": 1,
+        "version": 8,
+        "uncategorized": 5445
+      },
+      "Amare": {
+        "class_methods": 376,
+        "ui_texts": 331,
+        "domains": 118,
+        "numbers": 35,
+        "errors": 229,
+        "urls": 15,
+        "bundle_ids": 19,
+        "version": 14,
+        "debug_info": 28,
+        "file_paths": 1,
+        "uncategorized": 8442
+      }
+    },
+    "apps_count": 6,
+    "total_unique_strings": 2081
+  },
+  "resource_analysis": {
+    "duplicate_resources": {
+      "duplicate_resources": {
+        "Info.plist_1028": {
+          "name": "Info.plist",
+          "size": 1028,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_827": {
+          "name": "Info.plist",
+          "size": 827,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_819": {
+          "name": "Info.plist",
+          "size": 819,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Charr",
+            "Agape"
+          ],
+          "count": 4,
+          "category": "data"
+        },
+        "Info.plist_818": {
+          "name": "Info.plist",
+          "size": 818,
+          "apps": [
+            "Charr",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_817": {
+          "name": "Info.plist",
+          "size": 817,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Zeally",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 5,
+          "category": "data"
+        },
+        "Info.plist_813": {
+          "name": "Info.plist",
+          "size": 813,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_811": {
+          "name": "Info.plist",
+          "size": 811,
+          "apps": [
+            "Charr",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_810": {
+          "name": "Info.plist",
+          "size": 810,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_809": {
+          "name": "Info.plist",
+          "size": 809,
+          "apps": [
+            "Charr",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_808": {
+          "name": "Info.plist",
+          "size": 808,
+          "apps": [
+            "Charr",
+            "Charr"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_803": {
+          "name": "Info.plist",
+          "size": 803,
+          "apps": [
+            "Charr",
+            "Amare"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_801": {
+          "name": "Info.plist",
+          "size": 801,
+          "apps": [
+            "Charr",
+            "Charr"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_798": {
+          "name": "Info.plist",
+          "size": 798,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_795": {
+          "name": "Info.plist",
+          "size": 795,
+          "apps": [
+            "Charr",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 5,
+          "category": "data"
+        },
+        "Info.plist_794": {
+          "name": "Info.plist",
+          "size": 794,
+          "apps": [
+            "Charr",
+            "Zeally",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 6,
+          "category": "data"
+        },
+        "Info.plist_793": {
+          "name": "Info.plist",
+          "size": 793,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_792": {
+          "name": "Info.plist",
+          "size": 792,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_791": {
+          "name": "Info.plist",
+          "size": 791,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Amare",
+            "Amare"
+          ],
+          "count": 9,
+          "category": "data"
+        },
+        "Info.plist_790": {
+          "name": "Info.plist",
+          "size": 790,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 4,
+          "category": "data"
+        },
+        "Info.plist_789": {
+          "name": "Info.plist",
+          "size": 789,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 7,
+          "category": "data"
+        },
+        "Info.plist_788": {
+          "name": "Info.plist",
+          "size": 788,
+          "apps": [
+            "Charr",
+            "Zeally",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_787": {
+          "name": "Info.plist",
+          "size": 787,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Zeally",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 7,
+          "category": "data"
+        },
+        "Info.plist_786": {
+          "name": "Info.plist",
+          "size": 786,
+          "apps": [
+            "Charr",
+            "Zeally"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_781": {
+          "name": "Info.plist",
+          "size": 781,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Zeally",
+            "Amare"
+          ],
+          "count": 5,
+          "category": "data"
+        },
+        "Info.plist_779": {
+          "name": "Info.plist",
+          "size": 779,
+          "apps": [
+            "Charr",
+            "Zeally"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_774": {
+          "name": "Info.plist",
+          "size": 774,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "data"
+        },
+        "Info.plist_764": {
+          "name": "Info.plist",
+          "size": 764,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "data"
+        },
+        "Info.plist_754": {
+          "name": "Info.plist",
+          "size": 754,
+          "apps": [
+            "Charr",
+            "Zeally"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "AppFrameworkInfo.plist_377": {
+          "name": "AppFrameworkInfo.plist",
+          "size": 377,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_258": {
+          "name": "Info.plist",
+          "size": 258,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Agape",
+            "Agape",
+            "Amare"
+          ],
+          "count": 9,
+          "category": "data"
+        },
+        "FontManifest.json_208": {
+          "name": "FontManifest.json",
+          "size": 208,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "embedded.mobileprovision_30114": {
+          "name": "embedded.mobileprovision",
+          "size": 30114,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "certificates"
+        },
+        "MaterialIcons-Regular.otf_1645184": {
+          "name": "MaterialIcons-Regular.otf",
+          "size": 1645184,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "fonts"
+        },
+        "CupertinoIcons.ttf_257628": {
+          "name": "CupertinoIcons.ttf",
+          "size": 257628,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "fonts"
+        },
+        "no_sleep.js_13344": {
+          "name": "no_sleep.js",
+          "size": 13344,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "code"
+        },
+        "Flutter_9872144": {
+          "name": "Flutter",
+          "size": 9872144,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CryptoSwift_1326912": {
+          "name": "CryptoSwift",
+          "size": 1326912,
+          "apps": [
+            "Charr",
+            "Zeally"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "Adjust_833920": {
+          "name": "Adjust",
+          "size": 833920,
+          "apps": [
+            "Charr",
+            "Zeally"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "icudtl.dat_778864": {
+          "name": "icudtl.dat",
+          "size": 778864,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "libswift_Concurrency.dylib_557584": {
+          "name": "libswift_Concurrency.dylib",
+          "size": 557584,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "sqflite_darwin_253168": {
+          "name": "sqflite_darwin",
+          "size": 253168,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "video_player_avfoundation_209344": {
+          "name": "video_player_avfoundation",
+          "size": 209344,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "shared_preferences_foundation_195696": {
+          "name": "shared_preferences_foundation",
+          "size": 195696,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "url_launcher_ios_183776": {
+          "name": "url_launcher_ios",
+          "size": 183776,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "FBSDKCoreKit_Basics_160016": {
+          "name": "FBSDKCoreKit_Basics",
+          "size": 160016,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "path_provider_foundation_138000": {
+          "name": "path_provider_foundation",
+          "size": 138000,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "app_tracking_transparency_130512": {
+          "name": "app_tracking_transparency",
+          "size": 130512,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "flutter_native_splash_90896": {
+          "name": "flutter_native_splash",
+          "size": 90896,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "wakelock_plus_87632": {
+          "name": "wakelock_plus",
+          "size": 87632,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "FlutterEngine.h_20724": {
+          "name": "FlutterEngine.h",
+          "size": 20724,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_20698": {
+          "name": "CodeResources",
+          "size": 20698,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FlutterChannels.h_18414": {
+          "name": "FlutterChannels.h",
+          "size": 18414,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FlutterPlugin.h_16277": {
+          "name": "FlutterPlugin.h",
+          "size": 16277,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FlutterCodecs.h_15290": {
+          "name": "FlutterCodecs.h",
+          "size": 15290,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "ink_sparkle.frag_12112": {
+          "name": "ink_sparkle.frag",
+          "size": 12112,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FlutterViewController.h_10178": {
+          "name": "FlutterViewController.h",
+          "size": 10178,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_8672": {
+          "name": "FacebookSDK.strings",
+          "size": 8672,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_7100": {
+          "name": "FacebookSDK.strings",
+          "size": 7100,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6760": {
+          "name": "FacebookSDK.strings",
+          "size": 6760,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6746": {
+          "name": "FacebookSDK.strings",
+          "size": 6746,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6743": {
+          "name": "FacebookSDK.strings",
+          "size": 6743,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6610": {
+          "name": "FacebookSDK.strings",
+          "size": 6610,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "CodeResources_6576": {
+          "name": "CodeResources",
+          "size": 6576,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6528": {
+          "name": "FacebookSDK.strings",
+          "size": 6528,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6509": {
+          "name": "FacebookSDK.strings",
+          "size": 6509,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6504": {
+          "name": "FacebookSDK.strings",
+          "size": 6504,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_6497": {
+          "name": "FacebookSDK.strings",
+          "size": 6497,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5916": {
+          "name": "FacebookSDK.strings",
+          "size": 5916,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5695": {
+          "name": "FacebookSDK.strings",
+          "size": 5695,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5466": {
+          "name": "FacebookSDK.strings",
+          "size": 5466,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5374": {
+          "name": "FacebookSDK.strings",
+          "size": 5374,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FlutterPluginAppLifeCycleDelegate.h_5318": {
+          "name": "FlutterPluginAppLifeCycleDelegate.h",
+          "size": 5318,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5182": {
+          "name": "FacebookSDK.strings",
+          "size": 5182,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5169": {
+          "name": "FacebookSDK.strings",
+          "size": 5169,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5055": {
+          "name": "FacebookSDK.strings",
+          "size": 5055,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_5011": {
+          "name": "FacebookSDK.strings",
+          "size": 5011,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4998": {
+          "name": "FacebookSDK.strings",
+          "size": 4998,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4943": {
+          "name": "FacebookSDK.strings",
+          "size": 4943,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4921": {
+          "name": "FacebookSDK.strings",
+          "size": 4921,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4912": {
+          "name": "FacebookSDK.strings",
+          "size": 4912,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Mimip",
+            "Zeally",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Agape",
+            "Agape",
+            "Amare",
+            "Amare"
+          ],
+          "count": 12,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4905": {
+          "name": "FacebookSDK.strings",
+          "size": 4905,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4893": {
+          "name": "FacebookSDK.strings",
+          "size": 4893,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4887": {
+          "name": "FacebookSDK.strings",
+          "size": 4887,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4874": {
+          "name": "FacebookSDK.strings",
+          "size": 4874,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4873": {
+          "name": "FacebookSDK.strings",
+          "size": 4873,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4860": {
+          "name": "FacebookSDK.strings",
+          "size": 4860,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4824": {
+          "name": "FacebookSDK.strings",
+          "size": 4824,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4793": {
+          "name": "FacebookSDK.strings",
+          "size": 4793,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Mimip",
+            "Zeally",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Agape",
+            "Agape",
+            "Amare",
+            "Amare"
+          ],
+          "count": 12,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4784": {
+          "name": "FacebookSDK.strings",
+          "size": 4784,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4783": {
+          "name": "FacebookSDK.strings",
+          "size": 4783,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4772": {
+          "name": "FacebookSDK.strings",
+          "size": 4772,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FlutterEngineGroup.h_4755": {
+          "name": "FlutterEngineGroup.h",
+          "size": 4755,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4742": {
+          "name": "FacebookSDK.strings",
+          "size": 4742,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4730": {
+          "name": "FacebookSDK.strings",
+          "size": 4730,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4721": {
+          "name": "FacebookSDK.strings",
+          "size": 4721,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4714": {
+          "name": "FacebookSDK.strings",
+          "size": 4714,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4695": {
+          "name": "FacebookSDK.strings",
+          "size": 4695,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4675": {
+          "name": "FacebookSDK.strings",
+          "size": 4675,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4631": {
+          "name": "FacebookSDK.strings",
+          "size": 4631,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4617": {
+          "name": "FacebookSDK.strings",
+          "size": 4617,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FacebookSDK.strings_4293": {
+          "name": "FacebookSDK.strings",
+          "size": 4293,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FlutterHeadlessDartRunner.h_3927": {
+          "name": "FlutterHeadlessDartRunner.h",
+          "size": 3927,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FlutterDartProject.h_3914": {
+          "name": "FlutterDartProject.h",
+          "size": 3914,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FlutterBinaryMessenger.h_3761": {
+          "name": "FlutterBinaryMessenger.h",
+          "size": 3761,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "01J-lp-oVM-view-Ze5-6b-2t3.nib_2708": {
+          "name": "01J-lp-oVM-view-Ze5-6b-2t3.nib",
+          "size": 2708,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2440": {
+          "name": "CodeResources",
+          "size": 2440,
+          "apps": [
+            "Charr",
+            "Zeally",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_2420": {
+          "name": "CodeResources",
+          "size": 2420,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_2404": {
+          "name": "CodeResources",
+          "size": 2404,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Charr",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Agape",
+            "Agape"
+          ],
+          "count": 8,
+          "category": "uncategorized"
+        },
+        "CodeResources_2400": {
+          "name": "CodeResources",
+          "size": 2400,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 4,
+          "category": "uncategorized"
+        },
+        "CodeResources_2388": {
+          "name": "CodeResources",
+          "size": 2388,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2372": {
+          "name": "CodeResources",
+          "size": 2372,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_2368": {
+          "name": "CodeResources",
+          "size": 2368,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_2360": {
+          "name": "CodeResources",
+          "size": 2360,
+          "apps": [
+            "Charr",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2356": {
+          "name": "CodeResources",
+          "size": 2356,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_2316": {
+          "name": "CodeResources",
+          "size": 2316,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FlutterTexture.h_2263": {
+          "name": "FlutterTexture.h",
+          "size": 2263,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_2034": {
+          "name": "CodeResources",
+          "size": 2034,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Mimip",
+            "Zeally",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Agape",
+            "Agape",
+            "Amare",
+            "Amare"
+          ],
+          "count": 13,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_1993": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 1993,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5,
+          "category": "uncategorized"
+        },
+        "FlutterPlatformViews.h_1967": {
+          "name": "FlutterPlatformViews.h",
+          "size": 1967,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "BYZ-38-t0r-view-8bC-Xf-vdC.nib_1835": {
+          "name": "BYZ-38-t0r-view-8bC-Xf-vdC.nib",
+          "size": 1835,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FlutterMacros.h_1823": {
+          "name": "FlutterMacros.h",
+          "size": 1823,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "CodeResources_1798": {
+          "name": "CodeResources",
+          "size": 1798,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Mimip",
+            "Zeally",
+            "Zeally",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Agape",
+            "Agape",
+            "Amare",
+            "Amare"
+          ],
+          "count": 22,
+          "category": "uncategorized"
+        },
+        "FlutterCallbackCache.h_1724": {
+          "name": "FlutterCallbackCache.h",
+          "size": 1724,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "FlutterAppDelegate.h_1271": {
+          "name": "FlutterAppDelegate.h",
+          "size": 1271,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "UIViewController-BYZ-38-t0r.nib_951": {
+          "name": "UIViewController-BYZ-38-t0r.nib",
+          "size": 951,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_937": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 937,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "UIViewController-01J-lp-oVM.nib_924": {
+          "name": "UIViewController-01J-lp-oVM.nib",
+          "size": 924,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_860": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 860,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "Flutter.h_854": {
+          "name": "Flutter.h",
+          "size": 854,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_845": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 845,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_598": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 598,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_551": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 551,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "FlutterHourFormat.h_536": {
+          "name": "FlutterHourFormat.h",
+          "size": 536,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_373": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 373,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Charr",
+            "Charr",
+            "Charr",
+            "Charr",
+            "Charr",
+            "Charr",
+            "Charr",
+            "Mimip",
+            "Mimip",
+            "Zeally",
+            "Zeally",
+            "Zeally",
+            "Zeally",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Agape",
+            "Agape",
+            "Agape",
+            "Agape",
+            "Agape",
+            "Amare",
+            "Amare"
+          ],
+          "count": 33,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_372": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 372,
+          "apps": [
+            "Charr",
+            "Charr",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 4,
+          "category": "uncategorized"
+        },
+        "module.modulemap_95": {
+          "name": "module.modulemap",
+          "size": 95,
+          "apps": [
+            "Charr",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PkgInfo_8": {
+          "name": "PkgInfo",
+          "size": 8,
+          "apps": [
+            "Charr",
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 6,
+          "category": "uncategorized"
+        },
+        "Info.plist_814": {
+          "name": "Info.plist",
+          "size": 814,
+          "apps": [
+            "Mimip",
+            "Lurve",
+            "Lurve",
+            "Amare"
+          ],
+          "count": 4,
+          "category": "data"
+        },
+        "Info.plist_799": {
+          "name": "Info.plist",
+          "size": 799,
+          "apps": [
+            "Mimip",
+            "Lurve",
+            "Lurve",
+            "Amare"
+          ],
+          "count": 4,
+          "category": "data"
+        },
+        "Info.plist_780": {
+          "name": "Info.plist",
+          "size": 780,
+          "apps": [
+            "Mimip",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 4,
+          "category": "data"
+        },
+        "Info.plist_755": {
+          "name": "Info.plist",
+          "size": 755,
+          "apps": [
+            "Mimip",
+            "Agape",
+            "Amare"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "FBSDKCoreKit_3379184": {
+          "name": "FBSDKCoreKit",
+          "size": 3379184,
+          "apps": [
+            "Mimip",
+            "Amare"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "FBAEMKit_605360": {
+          "name": "FBAEMKit",
+          "size": 605360,
+          "apps": [
+            "Mimip",
+            "Amare"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2332": {
+          "name": "CodeResources",
+          "size": 2332,
+          "apps": [
+            "Mimip",
+            "Zeally",
+            "Agape",
+            "Amare"
+          ],
+          "count": 4,
+          "category": "uncategorized"
+        },
+        "CodeResources_2296": {
+          "name": "CodeResources",
+          "size": 2296,
+          "apps": [
+            "Mimip",
+            "Lurve",
+            "Amare"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "01J-lp-oVM-view-Ze5-6b-2t3.nib_1991": {
+          "name": "01J-lp-oVM-view-Ze5-6b-2t3.nib",
+          "size": 1991,
+          "apps": [
+            "Mimip",
+            "Zeally",
+            "Amare"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_1923": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 1923,
+          "apps": [
+            "Mimip",
+            "Zeally",
+            "Lurve",
+            "Agape",
+            "Amare"
+          ],
+          "count": 5,
+          "category": "uncategorized"
+        },
+        "Info.plist_802": {
+          "name": "Info.plist",
+          "size": 802,
+          "apps": [
+            "Zeally",
+            "Lurve",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_783": {
+          "name": "Info.plist",
+          "size": 783,
+          "apps": [
+            "Zeally",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_778": {
+          "name": "Info.plist",
+          "size": 778,
+          "apps": [
+            "Zeally",
+            "Amare"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_762": {
+          "name": "Info.plist",
+          "size": 762,
+          "apps": [
+            "Zeally",
+            "Zeally",
+            "Zeally",
+            "Agape"
+          ],
+          "count": 4,
+          "category": "data"
+        },
+        "FBSDKCoreKit_3890224": {
+          "name": "FBSDKCoreKit",
+          "size": 3890224,
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "FBAEMKit_597520": {
+          "name": "FBAEMKit",
+          "size": 597520,
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "KeychainSwift_135488": {
+          "name": "KeychainSwift",
+          "size": 135488,
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2452": {
+          "name": "CodeResources",
+          "size": 2452,
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2344": {
+          "name": "CodeResources",
+          "size": 2344,
+          "apps": [
+            "Zeally",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2324": {
+          "name": "CodeResources",
+          "size": 2324,
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "CodeResources_2312": {
+          "name": "CodeResources",
+          "size": 2312,
+          "apps": [
+            "Zeally",
+            "Zeally",
+            "Agape"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_812": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 812,
+          "apps": [
+            "Zeally",
+            "Zeally",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_707": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 707,
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "PrivacyInfo.xcprivacy_600": {
+          "name": "PrivacyInfo.xcprivacy",
+          "size": 600,
+          "apps": [
+            "Zeally",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "uncategorized"
+        },
+        "Info.plist_823": {
+          "name": "Info.plist",
+          "size": 823,
+          "apps": [
+            "Lurve",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_821": {
+          "name": "Info.plist",
+          "size": 821,
+          "apps": [
+            "Lurve",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 3,
+          "category": "data"
+        },
+        "Info.plist_812": {
+          "name": "Info.plist",
+          "size": 812,
+          "apps": [
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_807": {
+          "name": "Info.plist",
+          "size": 807,
+          "apps": [
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_805": {
+          "name": "Info.plist",
+          "size": 805,
+          "apps": [
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 6,
+          "category": "data"
+        },
+        "Info.plist_797": {
+          "name": "Info.plist",
+          "size": 797,
+          "apps": [
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_796": {
+          "name": "Info.plist",
+          "size": 796,
+          "apps": [
+            "Lurve",
+            "Lurve"
+          ],
+          "count": 2,
+          "category": "data"
+        },
+        "Info.plist_820": {
+          "name": "Info.plist",
+          "size": 820,
+          "apps": [
+            "Agape",
+            "Agape"
+          ],
+          "count": 2,
+          "category": "data"
+        }
+      },
+      "count": 169,
+      "total_size_saved": 42970662
+    },
+    "resource_type_analysis": {
+      "Charr": {
+        "images": 21,
+        "data": 44,
+        "certificates": 1,
+        "fonts": 2,
+        "code": 1,
+        "video": 7,
+        "uncategorized": 139
+      },
+      "Mimip": {
+        "images": 2,
+        "certificates": 1,
+        "data": 13,
+        "uncategorized": 74
+      },
+      "Zeally": {
+        "video": 7,
+        "images": 2,
+        "certificates": 1,
+        "data": 28,
+        "uncategorized": 98
+      },
+      "Lurve": {
+        "images": 35,
+        "data": 61,
+        "certificates": 1,
+        "fonts": 2,
+        "code": 4,
+        "uncategorized": 170
+      },
+      "Agape": {
+        "images": 56,
+        "data": 33,
+        "certificates": 1,
+        "fonts": 2,
+        "uncategorized": 123
+      },
+      "Amare": {
+        "images": 2,
+        "certificates": 1,
+        "data": 15,
+        "fonts": 3,
+        "uncategorized": 77
+      }
+    },
+    "apps_count": 6
+  },
+  "app_comparison": {
+    "Charr": {
+      "bundle_id": "com.charrsparkz.ios",
+      "version": "1.1.0",
+      "file_size": 24624346,
+      "total_strings": 3547,
+      "unique_strings": 3547,
+      "total_files": 215,
+      "total_resource_size": 47894215
+    },
+    "Mimip": {
+      "bundle_id": "com.mimipwanzhnsh.ios",
+      "version": "1.0",
+      "file_size": 5099770,
+      "total_strings": 5637,
+      "unique_strings": 5637,
+      "total_files": 90,
+      "total_resource_size": 11886679
+    },
+    "Zeally": {
+      "bundle_id": "com.zeallylkjhgf.ios",
+      "version": "1.0",
+      "file_size": 45040744,
+      "total_strings": 13297,
+      "unique_strings": 13297,
+      "total_files": 136,
+      "total_resource_size": 64269026
+    },
+    "Lurve": {
+      "bundle_id": "com.lurvehuadio.ios",
+      "version": "1.0.0",
+      "file_size": 18089636,
+      "total_strings": 21831,
+      "unique_strings": 21831,
+      "total_files": 273,
+      "total_resource_size": 42019341
+    },
+    "Agape": {
+      "bundle_id": "com.agapehayeteas.ios",
+      "version": "1.0.0",
+      "file_size": 16340685,
+      "total_strings": 6047,
+      "unique_strings": 6047,
+      "total_files": 215,
+      "total_resource_size": 39671866
+    },
+    "Amare": {
+      "bundle_id": "com.amarepiaosuwxz.ios",
+      "version": "1.0",
+      "file_size": 7162116,
+      "total_strings": 9608,
+      "unique_strings": 9608,
+      "total_files": 98,
+      "total_resource_size": 15189908
+    }
+  },
+  "duplication_statistics": {
+    "apps_with_high_similarity": [],
+    "most_duplicated_strings": [
+      {
+        "content": "setLogLevel:",
+        "count": 6,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Lurve",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "Fatal error",
+        "count": 6,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Lurve",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "invalidate",
+        "count": 6,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Lurve",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "NSKErrorCode",
+        "count": 5,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "defaultQueue",
+        "count": 5,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "So7NSErrorC",
+        "count": 5,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "_ErrorType",
+        "count": 5,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "_nsError",
+        "count": 5,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "SKError",
+        "count": 5,
+        "apps": [
+          "Charr",
+          "Mimip",
+          "Zeally",
+          "Agape",
+          "Amare"
+        ]
+      },
+      {
+        "content": "So14NSUserDefaultsC",
+        "count": 4,
+        "apps": [
+          "Mimip",
+          "Zeally",
+          "Agape",
+          "Amare"
+        ]
+      }
+    ],
+    "duplication_distribution": {
+      "5_apps": 6,
+      "3_apps": 4,
+      "6_apps": 3,
+      "2_apps": 42,
+      "4_apps": 3
+    }
+  },
+  "recommendations": [
+    "通过去除重复资源可节省约 41.0MB 空间"
+  ]
+}
