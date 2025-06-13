@@ -1,0 +1,12 @@
+类别,数量,示例字符串
+errors,451,"         Error Count: ,    Error Message: ,  <html><body><h1>AIContentAssistance</h1><p>This is some sample content for processing.  It might contain an ERROR.</p></body></html>  ... (共451个)"
+class_methods,584,"         This is a self-executing closure.         It performs some initialization tasks.          ,      Badge processing completed successfully.     User ID: user456     Badge ID: gold_star_123     Status: ,      Topic processing complete.     Processed  ... (共584个)"
+ui_texts,663,"A detailed description for style , A warm outfit for cold climates. , A/B test group changed to:  ... (共663个)"
+debug_info,59,"   Audit Log Entry:   User ID: , . Logging and ignoring. , ?Technology ... (共59个)"
+urls,25,"         { ""apiEndpoint"": ""https://api.interestexpansion.com"",             ""refreshInterval"": 7200,             ""maxRecommendations"": 5         } ,      { ""apiEndpoint"": ""https://example.com/api"",         ""refreshInterval"": 3600,         ""maxRecommendations"": 10     } , !http://certs.apple.com/wwdrg3.der01 ... (共25个)"
+version,6,"   { ""geoFenceRadius"": 100.0,   ""minEngagementCount"": 5,   ""dataRetentionDays"": 30   } , <?xml version=""1.0"" encoding=""UTF-8""?>, <plist version=""1.0""> ... (共6个)"
+domains,144,"/System/Library/Frameworks/AVFoundation.framework/AVFoundation, /System/Library/Frameworks/Accelerate.framework/Accelerate, /System/Library/Frameworks/AdSupport.framework/AdSupport ... (共144个)"
+bundle_ids,21,"#com.apple.developer.team-identifier, /usr/lib/libSystem.B.dylib, /usr/lib/libobjc.A.dylib ... (共21个)"
+numbers,17,"  RecentTrendAdaption  Analyzing market trends for Q3 2024.  Key findings: Mobile adoption increased by 15%.  User engagement metrics show a positive trend.  , ,0047~kk%44i,qj>!%((=j2-4k, 1200 Gold Coins - Special Offer ... (共17个)"
+file_paths,1,/System/Library/CoreServices/SystemVersion.plist
+uncategorized,11326,"         Average Score: ,          Batch processing summary:         Start Time: ,          End Time:  ... (共11326个)"

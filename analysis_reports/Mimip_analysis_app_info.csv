@@ -1,0 +1,10 @@
+属性,值
+name,Mimip
+bundle_id,com.mimipwanzhnsh.ios
+version,1.0
+build_version,1
+executable,Mimip
+platform,iPhoneOS
+minimum_os_version,14.0
+file_size,4.9 MB
+app_size,11.3 MB

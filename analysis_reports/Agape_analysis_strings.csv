@@ -1,0 +1,12 @@
+类别,数量,示例字符串
+bundle_ids,9," FP88G32C4L.com.agapehayeteas.ios01, #com.apple.developer.team-identifier, /usr/lib/libSystem.B.dylib ... (共9个)"
+class_methods,222,"         Self-executing closure triggered.         Current processing status: ,    This is a multi-line string.   It includes ""quotes"" and \slashes\.   Newlines are represented with .    ,  '1-. ... (共222个)"
+ui_texts,76,"About to change localState from , Adjusted load threshold applied: , Adjusting based on device orientation.  ... (共76个)"
+errors,156,"     Error Count: ,  sessions after error. , $s10Foundation18_ErrorCodeProtocolP ... (共156个)"
+domains,91,"-w.Wn, /System/Library/Frameworks/Accelerate.framework/Accelerate, /System/Library/Frameworks/AdSupport.framework/AdSupport ... (共91个)"
+debug_info,23,"_$s4Moya19NetworkLoggerPluginC13ConfigurationV10LogOptionsV7verboseAGvau, _$s4Moya19NetworkLoggerPluginCAA0D4TypeAAWP, _$s4Moya19NetworkLoggerPluginCMa ... (共23个)"
+urls,9,"!http://certs.apple.com/wwdrg3.der01, %http://ocsp.apple.com/ocsp03-wwdrg3030, (http://ocsp.apple.com/ocsp03-applerootca0. ... (共9个)"
+version,8,"34.0522,-118.2437, 37.7749,-122.4194, 40.7128,-74.0060 ... (共8个)"
+numbers,7,"4317, 80604, ?666666 ... (共7个)"
+file_paths,1,/System/Library/CoreServices/SystemVersion.plist
+uncategorized,5445,"     ""Escaped Quote Example""     ,      Hold Recognition Training Report     Model Version: ,      Multi-line string for configuration:     Route Type: Optimized     Max Segments:  ... (共5445个)"

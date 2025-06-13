@@ -1,0 +1,12 @@
+类别,数量,示例字符串
+ui_texts,331,"AI Wellness Score changed from , API call successful , About to change user preference from  ... (共331个)"
+errors,229,"     - Data Processing Error: , $s10Foundation18_ErrorCodeProtocolP, $s10Foundation21_BridgedStoredNSErrorP ... (共229个)"
+domains,118,"!0.RR, !0.gE, ,R.rb ... (共118个)"
+class_methods,376,"     FitnessConsistencyScore processing complete.     Status: Success     Average score: ,   h.,  '8.R ... (共376个)"
+urls,15,"!http://certs.apple.com/wwdrg3.der01, %http://ocsp.apple.com/ocsp03-wwdrg3030, (http://ocsp.apple.com/ocsp03-applerootca0. ... (共15个)"
+debug_info,28,"ADJLogLevel, Data processing encountered a minor issue. Check logs. , LogType ... (共28个)"
+bundle_ids,19,"!FP88G32C4L.com.amarepiaosuwxz.ios01, #com.apple.developer.team-identifier, /usr/lib/libSystem.B.dylib ... (共19个)"
+numbers,35," { ""2024-01-01"": { ""Exercise"": 1, ""Meditation"": 0} ,   ""2024-01-02"": { ""Exercise"": 0, ""Meditation"": 1} } , 0;4790, 0`008111 ... (共35个)"
+version,14,"        p { color: #333; line-height: 1.5; }, +8.3, <?xml version=""1.0"" encoding=""UTF-8""?> ... (共14个)"
+file_paths,1,/System/Library/CoreServices/SystemVersion.plist
+uncategorized,8442,"         Data processing completed for user: ,          Hash Value: ,          Process ID:  ... (共8442个)"
